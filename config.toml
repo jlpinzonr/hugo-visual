@@ -1,4 +1,5 @@
-baseURL = "https://visualcomputing.github.io/vc"
+#baseURL = "https://visualcomputing.github.io/vc"
+baseURL = "https://github.com/jlpinzonr/hugo-visual.git"
 languageCode = "en-us"
 title = "Visual Computing"
 theme = 'book'
